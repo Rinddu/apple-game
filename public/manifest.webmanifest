@@ -1,0 +1,11 @@
+{
+  "name": "동굴 소코반",
+  "short_name": "소코반",
+  "description": "동굴을 배경으로 한 10단계 소코반 퍼즐 게임",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#12100e",
+  "theme_color": "#12100e",
+  "icons": [{ "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
